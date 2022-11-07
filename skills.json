@@ -1,0 +1,8 @@
+{ 
+"postman": true,
+"devtools": true,
+"bugreport": true,
+"git": true,
+"python": false,
+"charles proxy": true
+}
